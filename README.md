@@ -73,15 +73,14 @@ Make sure you have:
 
 ### Installation
 
-1. 
+1. Once you've cloned Dolphin onto your machine, cd into the Dolphin directory and run: `npm install`. This will install all necessary dependencies.
+2. Next run: `node server` in the terminal window and Dolphin should now be hosted at [http://localhost:3000/](http://localhost:3000/)
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
