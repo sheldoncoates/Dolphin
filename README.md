@@ -63,7 +63,7 @@ Dolphin was built using the following technologies:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you'd like to have Dolphin run locally on your machine (for fun or whatever), Make sure oyu ahve the follow prerequisites before trying to do installation.
+If you'd like to have Dolphin run locally on your machine (for fun or whatever), Make sure you have the following prerequisites before trying to do installation.
 
 ### Prerequisites
 
