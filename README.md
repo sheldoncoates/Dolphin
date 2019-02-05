@@ -27,8 +27,8 @@ Created at Hack Western 5. Won best API use award
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/sheldoncoates/Dolphin">
+    <img src="startbootstrap-resume/img/dolphin.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
