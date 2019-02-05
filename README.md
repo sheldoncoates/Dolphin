@@ -49,45 +49,32 @@ Created at Hack Western 5. Won best API use award
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Dolphin was intended to solve the issue of sending money to your peers when you don't have data available or a wifi connection. The transaction are sent over sound and revieved on the peers device and processed later once connected to the internet. Dolphin uses an API created by [Authorize.net](https://www.authorize.net/) in order to achieve a snadbox environment for money tranfers. Dolphin was awarded best API use at Hack Western 5.
+Dolphin was intended to solve the issue of sending money to your peers when you don't have data available or a wifi connection. The transactions are sent over sound and received on the peers device and processed later once connected to the internet. Dolphin uses an API created by [Authorize.net](https://www.authorize.net/) in order to achieve a sandbox environment for money tranfers. Dolphin was awarded best API use at Hack Western 5.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Dolphin was built using the following technologies:
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [JavaScript](https://www.javascript.com/)
+* [Chirp.io](https://chirp.io/)
+* [Python](https://www.python.org/)
+* [Flask](http://flask.pocoo.org/)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+If you'd like to have Dolphin run locally on your machine (for fun or whatever), Make sure oyu ahve the follow prerequisites before trying to do installation.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Make sure you have:
+* [Node.js](https://nodejs.org/en/)
+* [Python 3.x](https://www.python.org/)
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https:://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+1. 
+
 
 <!-- LICENSE -->
 ## License
