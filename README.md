@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/sheldoncoates/Dolphin)
 
 Dolphin was intended to solve the issue of sending money to your peers when you don't have data available or a wifi connection. The transactions are sent over sound and received on the peers device and processed later once connected to the internet. Dolphin uses an API created by [Authorize.net](https://www.authorize.net/) in order to achieve a sandbox environment for money tranfers. Dolphin was awarded best API use at Hack Western 5.
 
