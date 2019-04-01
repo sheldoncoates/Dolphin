@@ -96,4 +96,4 @@ Project Link: [https://github.com/sheldoncoates/Dolphin](https://github.com/shel
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sheldoncoates
-[product-screenshot]: /screenshot.png
+[product-screenshot]: /dolphin.gif
