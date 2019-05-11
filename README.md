@@ -1,7 +1,6 @@
 <!-- PROJECT SHIELDS -->
 [![Build Status][build-shield]]()
 [![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -30,7 +29,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -69,11 +67,6 @@ Make sure you have:
 2. Next run: `node server` in the terminal window and Dolphin should now be hosted at [http://localhost:3000/](http://localhost:3000/)
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <!-- CONTACT -->
 ## Contact
 
@@ -92,8 +85,6 @@ Project Link: [https://github.com/sheldoncoates/Dolphin](https://github.com/shel
 <!-- MARKDOWN LINKS & IMAGES -->
 [build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
 [contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sheldoncoates
 [product-screenshot]: /dolphin.gif
